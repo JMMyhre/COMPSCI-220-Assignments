@@ -1,0 +1,48 @@
+Sebastien Payannet   Rocky Mountain FSC        57.7   113.49  59.8   74.63  M
+Shotaro Omori        Los Angeles FSC           58.81  132.72  64.38  68.34  M
+Daniel Kulenkamp     Sun Valley FSC            65.08  128.66  63.02  66.64  M
+Oleksiy melnyk       Washington FSC            59.86  124.45  64.28  60.17  M
+Dennis Phan          Birmingham FSC            60.78  120.36  68.32  54.04  M
+Max Aaron            Broadmoor FSC             72.54  155.26  76.38  79.88  M
+Jimmy Ma             New York FSC              70.41  110.66  64.56  50.11  M
+Scott Dyer           All Year FSC              69.91  129.57  72.50  57.07  M
+Sean rabbit          Glacier Falls FSC         73.41  154.61  77.44  78.17  M
+Tomoki Hiwatashi     Dupage FSC                71.79  124.30  70.81  55.81  M
+Kevin Shum           Boston FSC                71.77  133.92  69.61  64.32  M
+Emmanuel Savary      Univ Delaware FSC         73.75  126.98  67.16  60.82  M
+Alexander Johnson    Braema-City of Lakes FSC  75.19  158.20  81.16  77.04  M
+jordan Moeller       Northern Ice FSC          76.24  149.61  73.72  75.89  M
+Timothy Dolensky     Atlanta FSC               78.86  149.90  75.64  74.26  M
+Andrew Torgashev     Panthers FSC              70.2   147.53  76.71  80.83  M
+Jason Brown          Skokie Valey FSC          79.23  175.01  92.48  82.52  M
+Grant Hochstein      New York FSC              79.11  169.21  83.08  86.13  M
+Ross Miner           Boston FSC                88.67  151.67  83.58  69.09  M
+Nathan Chen          Salt Lake FSC             106.39 212.08  91.01  121.08 M
+Vincent Zhou         San Fransisco FSC         87.85  175.18  81.94  93.24  M
+bradie Tennell       Skokie Valley SC          73.79  145.72  69.71  76.01  L
+Mirai Nagasu         Pasadena FSC              73.09  140.75  67.42  73.33  L
+Karen Chen           Peninsula SC              69.48  129.11  69.58  59.53  L
+Ashley Wagner        SC of Wilmington          65.94  130.25  68.00  62.25  L
+Mariah Bell          Rocky Mountain FSC        65.18  127.6   62.74  65.42  L
+Starr Andrews        Los Angeles FSC           62.55  127.36  59.51  67.85  L
+Angela Wang          Salt Lake Figure Skating  67.00  121.01  61.71  59.30  L
+Amber Glenn          Dallas FSC                61.62  106.44  56.51  49.93  L
+Courtney Hicks       All Year FSC              57.81  107.67  54.51  54.16  L
+Tessa Hong           Los Angeles FSC           55.82  101.04  52.24  50.80  L
+caroline zhang       All Year FSC              60.29  96.09   50.23  47.86  L
+Franchesca Chiera    Panthers FSC              53.85  97.14   48.66  48.48  L
+Hannah Miller        Lansing SC                57.57  91.57   53.28  39.29  L
+Kaitlyn Nguyen       Los Angeles FSC           46.30  99.90   52.80  47.10  L
+Brynne McIsaac       Broadmoor SC              43.97  101.57  48.87  52.70  L	
+Emmy Ma              SC of Boston              45.55  92.47   45.66  47.81  L
+Megan Wessenberg     SC of Boston              40.90  90.83   46.14  46.69  L
+Katie McBeath        Westminster FSC of Erie   48.53  76.11   41.89  34.22  L
+Vivian Le            Los Angeles FSC           46.65  75.95   44.34  37.61  L
+Emily Chan           Dallas FSC                44.79  59.64   59.64  44.79  L
+Alexa, chris         DuPage FSC                71.10  135.5   70.00  65.50  P
+Tarah, Danny         Southwest Florida FSC     68.93  131.87  67.64  85.23  P
+Deanna, Nathan,      Southwest Florida FSC     67.84  129.81  67.61  63.20  P
+Ashley, Timothy      SC of New York            60.03  127.11  62.92  64.19  P
+Haven, brandon       All Year FSC              63.6   122.69  62.26  60.43  P
+Marissa, Mervin,     SC of Boston              60.75  121.3   60.38  61.25  P
+Chelsea, brian,      Orange County FSC         62.35  105.12  52.62  54.50  P
