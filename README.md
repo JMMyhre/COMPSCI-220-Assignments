@@ -4,7 +4,9 @@
 
 ### All of this work was completed by myself with little to no background in JAVA
 
-## Labs
+### Throughout this course, we worked and refined one project. This project was a console based organization system of Ice Skaters data.
+
+## Project phases
 
 Lab 1: [This file has a House](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab01_myhre.zip)
   - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab1Sketch)
