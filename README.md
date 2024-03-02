@@ -9,9 +9,9 @@
 ## Project Phases
 
 Phase 1:
-  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
-  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
-  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
-  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
+  - [P1-FileInput](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
+  - [P1-Main](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
+  - [P1-Report](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
+  - [p1-Skater](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/P1Skater.java)
 
 
