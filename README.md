@@ -9,9 +9,9 @@
 ## Project Phases
 
 Phase 1:
-  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab1Sketch)
-  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab1Sketch)
-  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab1Sketch)
-  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab1Sketch)
+  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
+  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
+  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
+  - [Sketch code for lab 1](https://github.com/JMMyhre/MAGD-220-Assignments/blob/gh-pages/Lab1Sketch)
 
 
